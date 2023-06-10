@@ -1,0 +1,16 @@
+folder_tst: /home/marina/tst
+folder_in: /home/marina2/tst/file
+folder_out: /home/marina2/tst/out
+folder_ext: /home/marina2/tst/ext
+folder_ext2: /home/marina2/tst/ext2
+folder_badarx: /home/marina2/tst/badarx
+count: 5
+size_of_file: 1
+name_of_arch: '*.7z'
+path_journal: /home/marina/journal.txt
+host: 0.0.0.0
+user: user2
+password: "2222"
+local_path: /home/marina/p7zip-full.deb
+remote_path: /home/marina2/p7zip-full.deb
+pkgname: p7zip-full
