@@ -1,0 +1,10 @@
+folder_tst: /home/marina/tst
+folder_in: /home/marina/tst/file
+folder_out: /home/marina/tst/out
+folder_ext: /home/marina/tst/ext
+folder_ext2: /home/marina/tst/ext2
+folder_badarx: /home/marina/tst/badarx
+count: 5
+size_of_file: 1
+name_of_arch: '*.7z'
+filename: 'stat.txt'
